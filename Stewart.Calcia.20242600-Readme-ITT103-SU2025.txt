@@ -1,0 +1,43 @@
+Authors: Calcia Stewart  
+Date Created: July 28, 2025  
+Course: ITT103  
+GitHub Public URL to Code: [https://github.com/yourusername/hospital-system](https://github.com/yourusername/hospital-system)
+
+*******************************************
+**          CATABOO HOSPITAL SYSTEM      **
+**										 **
+*******************************************
+
+**Purpose of the Program:**  
+This is a basic terminal-based hospital management system built in Python. It allows staff to:
+1. Register new patients
+2. Add new doctors with schedules
+3. Book appointments between patients and doctors
+4. Cancel existing appointments
+5. Generate bills for consultations and services
+6. View patient profiles and appointment histories
+7. View doctor profiles and schedules
+
+**How to Run the Program:**  
+1. Open a Python-supported text editor (like VS Code or Notepad++).
+2. Save the program as `CATABOO HOSPITAL SYSTEM.py`.
+3. Run the file using Python 3 from the terminal or command prompt:
+4. Follow the on-screen menu options to interact with the system.
+
+**Required Modifications **  
+1. Add login function for staff users.
+2. Implement graphical user interface (GUI) for ease of use.
+3. Include search filters by date, doctor, or patient name.
+
+**Assumptions and Limitations:**  
++ Data is lost once the program closes since all information is stored in memory only.
++ Patient and doctor IDs are auto-generated starting from fixed values (P1000, D5000, etc.).
++ The doctor's availability is manually entered as a list of (date, time) tuples.
++ The consultation fee is fixed at JMD $3000; only additional service fees can be added.
++ Date and time formats must be entered correctly as instructed (e.g., YYYY-MM-DD and HH:MM).
+
+
+*************************************************************
+**        Thank you for using CATABOO HOSPITAL SYSTEM      **
+**						   								   **
+*************************************************************
