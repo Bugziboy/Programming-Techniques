@@ -1,7 +1,7 @@
 Authors: Calcia Stewart  
 Date Created: July 28, 2025  
 Course: ITT103  
-GitHub Public URL to Code: [https://github.com/yourusername/hospital-system](https://github.com/yourusername/hospital-system)
+GitHub Public URL to Code: https://github.com/Bugziboy/Programming-Techniques.git
 
 *******************************************
 **          CATABOO HOSPITAL SYSTEM      **
